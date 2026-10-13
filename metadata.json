@@ -1,0 +1,8 @@
+{
+  "name": "ArnauldSchool - Plateforme Pédagogique & Assistant IA",
+  "description": "Plateforme éducative pour enseignants avec gestion d'établissements, suivi des notes, tableau de bord analytique et assistant pédagogique intelligent propulsé par Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
